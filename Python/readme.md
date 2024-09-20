@@ -42,3 +42,15 @@ print(c, "Batman")
 ```
 - Answer: The output will be `nana nana nana nana nana nana nana nana Batman`
 
+### Question 9 to 13 are in codes
+
+### 14. Evaluate the following expressions:
+```
+(a<b) or (not(c==b) and (c<a))
+ a. a =10, b=5, c=0
+ b. a=1.21, b=1.20, c=1.22
+```
+
+- (a<b) or (not(c==b) and (c<a)) evaluates to:
+    - a = 10, b = 5, c = 0 → True
+    - a = 1.21, b = 1.20, c = 1.22 → False
