@@ -1,0 +1,1 @@
+b.txt contains the word "hello"

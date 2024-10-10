@@ -10,3 +10,5 @@ elif remainder == 3:
     print("Remainder is 3")
 elif remainder == 4:
     print("Remainder is 4")
+else:
+    print("Not allowed")

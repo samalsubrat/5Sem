@@ -1,14 +1,5 @@
-n = int(input("Enter an integer: "))
-i = 2
-factors = []
-
-while True:
-    if n == 1:
-        break
-    elif n % i == 0:
-        factors.append(i)
-        n //= i
-    else:
-        i += 1
-
-print("Smallest factors:", factors)
+x = int(input("Enter the number: "))
+print("The factors of",x,"are:")
+for i in range(1, x + 1):
+    if x % i == 0:
+        print(i)

@@ -1,4 +1,4 @@
-limit = int(input("Enter an integer: "))
+limit = int(input("Enter the limit: "))
 prime_sum = 0
 
 for num in range(2, limit):

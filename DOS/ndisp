@@ -1,0 +1,9 @@
+n=$1
+m=$2
+file=$3
+
+echo "First $n lines of $file:"
+head -n $n $file
+
+echo "Last $m lines of $file:"
+tail -n $m $file
