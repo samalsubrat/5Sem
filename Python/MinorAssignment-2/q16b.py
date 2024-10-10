@@ -1,3 +1,5 @@
+import math
+
 x = float(input("Enter x: "))
 n = int(input("Enter number of terms (n): "))
 sum_b = 1
