@@ -7,6 +7,6 @@ int main(){
     else   
         x=x/2.0;
     // the print statement is not there in the question
-    printf("%.2f\n",x);
+    printf("%f\n",x);
     return 0;
 }
