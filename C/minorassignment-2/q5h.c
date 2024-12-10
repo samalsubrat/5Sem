@@ -1,6 +1,6 @@
 #include<stdio.h>
  int main(){
-    int i=2;
+    int i=1;
     switch(i) {
         default: printf("Hello ");
         case 1: printf("Hello ");
